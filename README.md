@@ -1,8 +1,8 @@
 # object-detection-datasets
-目标检测中，VOC格式转YOLO格式，YOLO格式转COCO格式。数据集处理。
+In object detection, convert VOC format to YOLO format, and YOLO format to COCO format. Dataset processing.
 
-split_data : 数据集处理划分数据集
+split_data : Dataset processing splits the dataset
 
-voc2yolo : VOC格式转YOLO格式
+voc2yolo : VOC format to YOLO format
 
-yolo2coco : YOLO格式转COCO格式
+yolo2coco : YOLO format to COCO format
